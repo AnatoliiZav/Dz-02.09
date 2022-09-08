@@ -15,6 +15,5 @@ int number1 = int.Parse(Console.ReadLine());
 Console.Write("Введите второе число N = ");
 int number = int.Parse(Console.ReadLine());
 
-PrintN(number1, number);
 Console.WriteLine();
 Console.WriteLine(Print(number1, number));
